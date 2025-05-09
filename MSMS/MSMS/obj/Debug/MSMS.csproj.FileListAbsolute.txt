@@ -1,0 +1,69 @@
+D:\Abik\Codes\C#\Project\MSMS\MSMS\bin\Debug\MSMS.exe.config
+D:\Abik\Codes\C#\Project\MSMS\MSMS\bin\Debug\MSMS.exe
+D:\Abik\Codes\C#\Project\MSMS\MSMS\bin\Debug\MSMS.pdb
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.csproj.AssemblyReference.cache
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.Properties.Resources.resources
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.csproj.GenerateResource.cache
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.csproj.CoreCompileInputs.cache
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.exe
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.pdb
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.Login.resources
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.Dashboard.resources
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.AddNewPhone.resources
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.CustomerRecords.resources
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.DeletePhoneRecord.resources
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.Customer.resources
+D:\Abik\Codes\C#\Project\MSMS\MSMS\obj\Debug\MSMS.Stock.resources
+D:\C#\MSMS\MSMS\MSMS\bin\Debug\MSMS.exe.config
+D:\C#\MSMS\MSMS\MSMS\bin\Debug\MSMS.exe
+D:\C#\MSMS\MSMS\MSMS\bin\Debug\MSMS.pdb
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.csproj.AssemblyReference.cache
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.AddNewPhone.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.Customer.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.CustomerRecords.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.Dashboard.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.DeletePhoneRecord.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.Login.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.Properties.Resources.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.Stock.resources
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.csproj.GenerateResource.cache
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.csproj.CoreCompileInputs.cache
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.exe
+D:\C#\MSMS\MSMS\MSMS\obj\Debug\MSMS.pdb
+D:\C#\MSMS\MSMS\MSMS\bin\Debug\Mobile_Shop.mdf
+D:\C#\MSMS\MSMS\MSMS\bin\Debug\Mobile_Shop_log.ldf
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\bin\Debug\Mobile_Shop.mdf
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\bin\Debug\Mobile_Shop_log.ldf
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\bin\Debug\MSMS.exe.config
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\bin\Debug\MSMS.exe
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\bin\Debug\MSMS.pdb
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.csproj.AssemblyReference.cache
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.AddNewPhone.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.Customer.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.CustomerRecords.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.Dashboard.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.DeletePhoneRecord.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.Login.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.Properties.Resources.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.Stock.resources
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.csproj.GenerateResource.cache
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.csproj.CoreCompileInputs.cache
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.exe
+D:\Abik\Codes\C#\Project\MSMS Final\MSMS\MSMS\MSMS\obj\Debug\MSMS.pdb
+D:\C#\MSMS__Final\MSMS\MSMS\bin\Debug\MSMS.exe.config
+D:\C#\MSMS__Final\MSMS\MSMS\bin\Debug\MSMS.exe
+D:\C#\MSMS__Final\MSMS\MSMS\bin\Debug\MSMS.pdb
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.csproj.AssemblyReference.cache
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.AddNewPhone.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.Customer.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.CustomerRecords.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.Dashboard.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.DeletePhoneRecord.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.Login.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.Properties.Resources.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.Stock.resources
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.csproj.GenerateResource.cache
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.csproj.CoreCompileInputs.cache
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.exe
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.pdb
+D:\C#\MSMS__Final\MSMS\MSMS\obj\Debug\MSMS.ManageUser.resources
